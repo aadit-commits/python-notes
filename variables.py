@@ -5,7 +5,10 @@ It must start with a letter or underscore.
 It cannot start with a number.
 Variables are case-sensitive.
 It can only contain alpha-numeric characters and only one special character i.e underscore (_).
-A keyword can't be used as variable.'''
+A keyword can't be used as variable.
+Variable names beginning with underscore are discouraged because they are used to indicate a private variable of a class.
+Variables can be of unlimited lenght.
+'''
 
 # Strings
 name = "Aadit"
